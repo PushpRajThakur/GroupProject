@@ -1,0 +1,102 @@
+body
+{
+   
+    background-color: rebeccapurple;
+}
+
+.header{
+    font-family:monospace;
+    width: 1400;
+    margin-left: 60;
+    background-color: rebeccapurple;
+    color:whitesmoke;
+    height: 120px;
+}
+.header img{
+    height: 80px;width: 80px;float:left;margin-left: 20px;margin-top:20px;
+}
+.header p{
+    font-family:cursive;float:left;font-size:40px;margin-left: 10px;
+}
+.header a{
+    text-decoration: none;
+    color:whitesmoke;
+    font-size: 20px;
+    padding: 10px;
+}
+.header a:hover{
+    color:yellow;
+    text-shadow: 1px 1px white;
+}
+.navigation{
+    font-family:monospace;
+    width: 1400;
+    margin-left: 60;
+    background-color:blueviolet;
+    color:whitesmoke;
+    height: 60px;
+}
+.navigation nav a{
+    margin-left: 20px;
+    text-decoration: none;
+    color:whitesmoke;
+    font-size: 20px;
+    padding: 20px;
+}
+.navigation nav a:hover{
+    
+    color:yellow;
+    text-shadow: 1px 1px white;
+}
+.middle{
+    font-family:monospace;
+    align-content: center;
+    width: 1400;
+    height: auto;
+    margin-left: 60;
+    background-color:rebeccapurple;
+}
+
+
+
+.footer{
+    font-family:monospace;
+    width: 1400;
+    margin-left: 60;
+    background-color:orange;
+    height: 360px;
+}
+#ltb1
+{
+    font-size: 17px;
+   
+    
+}
+#ltb2
+{
+    color:whitesmoke;
+    font-size:20px;
+}
+#ltb1 th
+{
+    color:white;
+    text-shadow: 1px 1px black;
+    text-align: left;
+    padding: 10px;
+}
+#ltb1 td
+{
+    color:white;
+    padding: 3px;
+}
+.footer img
+{
+    text-shadow: 2px 2px black;
+    height:50px;
+    width: 50px;
+}
+.footer a:hover img
+{
+    height:60px;
+    width:60px;
+}
